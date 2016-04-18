@@ -1,0 +1,20 @@
+{
+  "name": "fakebook",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^0.14.8",
+    "react-addons-perf": "^0.14.*",
+    "react-addons-transition-group": "^0.14.*",
+    "react-addons-css-transition-group": "^0.14.*",
+    "react-addons-linked-state-mixin": "^0.14.*",
+    "react-addons-create-fragment": "^0.14.*",
+    "react-addons-update": "^0.14.*",
+    "react-addons-pure-render-mixin": "^0.14.*",
+    "react-addons-test-utils": "^0.14.*",
+    "react-dom": "^0.14.*"
+  }
+}
